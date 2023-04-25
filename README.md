@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi, stranger 👋🏻
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Angular.
+
 
 <!--
 **saracast909/saracast909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
